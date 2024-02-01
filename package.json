@@ -4,7 +4,8 @@
   "description": "COMP2156 Lab Exercise",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"No ci Configured\""
   },
   "keywords": [],
   "author": "Madhav Sharma",
